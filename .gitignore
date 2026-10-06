@@ -1,0 +1,7 @@
+build/
+dist/
+*.exe
+*.env
+*.spec
+*.xlsx
+.vscode/
